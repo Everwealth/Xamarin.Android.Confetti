@@ -1,0 +1,1 @@
+Xamarin binding of the Confetti library https://github.com/jinatonic/confetti
